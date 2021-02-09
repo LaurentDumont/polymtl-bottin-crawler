@@ -32,3 +32,5 @@ def emailExtractor(urlString):
 emailExtractor(urlString)
 unique_emails = set(emailList)
 print(len(unique_emails))
+for email in unique_emails:
+    print(email)
