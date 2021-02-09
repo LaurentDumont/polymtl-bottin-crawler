@@ -6,6 +6,8 @@ Does not throttle requests so is a bit spammy!
 
 # How to use it?
 
+Tested with python 3.8 (probably works with 3.9 too!)
+
 - Install the requirements (requests + beautifulsoup4)
 - Run the python code : 
 ```
